@@ -1,0 +1,53 @@
+2024-03-30 00:41:32,495 - root - INFO - Application exit.
+2024-03-30 00:41:32,497 - root - INFO - Application shutdown.
+2024-03-30 00:41:50,836 - root - INFO - Logging configured.
+2024-03-30 00:41:50,836 - root - INFO - Environment variables loaded.
+2024-03-30 00:41:50,845 - root - INFO - Logging configured.
+2024-03-30 00:41:50,845 - root - INFO - Environment variables loaded.
+2024-03-30 00:41:51,659 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-30 00:41:51,661 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-30 00:41:51,664 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-30 00:41:51,665 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-30 00:41:51,667 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-30 00:41:51,669 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-30 00:41:51,672 - root - INFO - Command 'history' from plugin 'history' registered.
+2024-03-30 00:41:51,674 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-30 00:41:51,676 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-30 00:41:51,679 - root - INFO - Command 'plugins' from plugin 'plugins' registered.
+2024-03-30 00:41:51,682 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-30 00:41:51,683 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-30 00:41:51,683 - root - INFO - Application exit.
+2024-03-30 00:41:51,684 - root - INFO - Application shutdown.
+2024-03-30 00:41:51,699 - root - INFO - Logging configured.
+2024-03-30 00:41:51,701 - root - INFO - Environment variables loaded.
+2024-03-30 00:41:51,706 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-30 00:41:51,707 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-30 00:41:51,707 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-30 00:41:51,712 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-30 00:41:51,716 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-30 00:41:51,716 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-30 00:41:51,717 - root - INFO - Command 'history' from plugin 'history' registered.
+2024-03-30 00:41:51,718 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-30 00:41:51,719 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-30 00:41:51,719 - root - INFO - Command 'plugins' from plugin 'plugins' registered.
+2024-03-30 00:41:51,721 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-30 00:41:51,721 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-30 00:41:51,722 - root - INFO - Application exit.
+2024-03-30 00:41:51,723 - root - INFO - Application shutdown.
+2024-03-30 00:41:51,747 - root - INFO - Logging configured.
+2024-03-30 00:41:51,748 - root - INFO - Environment variables loaded.
+2024-03-30 00:41:51,751 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-30 00:41:51,752 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-30 00:41:51,760 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-30 00:41:51,764 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-30 00:41:51,768 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-30 00:41:51,773 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-30 00:41:51,775 - root - INFO - Command 'history' from plugin 'history' registered.
+2024-03-30 00:41:51,776 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-30 00:41:51,777 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-30 00:41:51,778 - root - INFO - Command 'plugins' from plugin 'plugins' registered.
+2024-03-30 00:41:51,778 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-30 00:41:51,779 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-30 00:41:51,779 - root - INFO - Hello, World!
+2024-03-30 00:41:51,782 - root - INFO - Application exit.
+2024-03-30 00:41:51,783 - root - INFO - Application shutdown.
